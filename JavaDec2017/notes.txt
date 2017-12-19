@@ -1,0 +1,7 @@
+HEAP  -  куча, динамичская память - место, где хранятся объекты
+Execution Stack - стэк выполнения 
+String - immutable - неизменяемый объект
+
+Memory Leak  - утечка памяти
+
+Object Pool
