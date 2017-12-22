@@ -5,3 +5,31 @@ String - immutable - неизменяемый объект
 Memory Leak  - утечка памяти
 
 Object Pool
+
+
+Flyweight - design pattern,  Integer (IntegerCache)
+
+
+JRE  Java Runtime Environment
+java  (JVM  -Java Virtual Machine)
+lib 
+
+JDK  Java Development Kit
+java
+lib
+javac
+src.zip
+jar
+--
+jconsole
+jvisualvm
+jinfo
+jmap
+jstack
+javap
+jdb  debugger
+
+boilerplate code
+
+WORA  Write Once - Run Anywhere
+
