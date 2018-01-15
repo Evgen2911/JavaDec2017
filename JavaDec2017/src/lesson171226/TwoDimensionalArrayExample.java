@@ -53,7 +53,10 @@ public class TwoDimensionalArrayExample {
 				continue;
 			}
 			for (int j = 0; j < m[i].length; j++) {
+				if (j == 0) System.out.print("[");// printing in each line "["
 				System.out.print(m[i][j]);
+				if (j == m.length) System.out.println("]");// compliting each line with "]"
+				else System.out.print(", ");// making spaces and "," between elements of massive.
 			}
 		}
 	}
